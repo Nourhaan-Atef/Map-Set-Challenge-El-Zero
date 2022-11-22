@@ -1,2 +1,2 @@
 # Map-Set-Challenge-El-Zero
-<img src="Challenge.png" alt="Challenge Image"/>
+<img src="Challenge.PNG" alt="Challenge Image"/>
